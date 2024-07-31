@@ -1,6 +1,12 @@
-print("Madlib")
+print("Madlibs Ver 1.0")
 Noun1 = input("Choose A Noun: ")
+while Noun1 == (""):
+    print("Your response can't be empty!")
+    Noun1 = input("Please Enter A Noun: ")
 PluralNoun1 = input("Choose A Plural Noun: ")
+while PluralNoun1 == (""):
+    print("Your response can't be empty!")
+    PluralNoun1 = input("Please Enter in A Plural Noun: ")
 Noun2 = input("Choose A Noun: ")
 NamePlace1 = input("Name A place: ")
 Adj1 = input("Choose and adjective: ")
