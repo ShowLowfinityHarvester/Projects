@@ -1,3 +1,6 @@
+# These are school projects! Github page may be all cluttered until 2025 or 2026.
+
+
 # var examples
 
 Name = "Name"
