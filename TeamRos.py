@@ -20,5 +20,5 @@ Savannah = 11
 
 Juan = 64
 
-string1 = "Welcome to the team! Your team # is {}."
+string1 = "Welcome to the team! Your team number is {}."
 print(string1.format(Joe))
