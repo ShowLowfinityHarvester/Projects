@@ -1,3 +1,5 @@
+# These are school projects! Github page may be all cluttered until 2025 or 2026.
+
 print("Madlibs Ver 1.0")
 Noun1 = input("Choose A Noun: ")
 while Noun1 == (""):
