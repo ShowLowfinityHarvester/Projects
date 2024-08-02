@@ -1,0 +1,55 @@
+# These are school projects! Github page may be all cluttered until 2025 or 2026.
+
+string1 = "One day "
+string2 = "This morning "
+string3 = "Yesterday "
+string4 = "my shoelace did shoelace things and "
+string5 = "my pet gopher hit "
+string6 = "my teacher "
+string7 = "my mom, "
+string8 = "my eyeball "
+string9 = "wasn't feeling well and "
+string10 = "slipped on a banana peel, "
+string11 = "had a little too much sugar "
+string12 = "won a trophy because "
+string13 = "drove a racecar "
+string14 = "in "
+string15 = "under "
+string16 = "on top of "
+string17 = "next to "
+string18 = "a hedgehog "
+string19 = "an orange beetle "
+string20 = "a snail "
+string21 = "a kangaroo "
+string22 = "a radish "
+string23 = "got braces and "
+string24 = "a golden tooth "
+string25 = "went to the circus "
+string26 = "attacked "
+string27 = "looked "
+string28 = "rescued "
+string29 = "created "
+string30 = "trapped "
+string31 = "invented "
+string32 = "and promised "
+string33 = "their "
+string34 = "his "
+string35 = "her "
+string36 = "a "
+string37 = "and "
+string38 = "then "
+string39 = "meanwhile "
+string40 = "unfortunately "
+string41 = "because "
+string42 = "got "
+string43 = "who to get the seats? No one! "
+string44 = "looks "
+string45 = "at 9 am "
+
+story = string1 +  string4 +  string5 +  string7 +  string8 +  string23 +  string25 +  string32 +  string43
+print(story)
+
+story2 = string2 +  string45 +  string6 +  string9 +  string10 +  string24 +  string26 +  string33 +  string44
+print(story2.upper())
+print(story2.lower())
+print(story2.replace("wasn't feeling well ", "was feeling awful "))
