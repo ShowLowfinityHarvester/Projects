@@ -1,6 +1,10 @@
 # These are school projects! Github page may be all cluttered until 2025 or 2026.
 
-animals = ["ani1", "ani2", "ani3", "ani4"]
 
-for x in animals:
-    print(x + "is the spikiest animal ever")
+butterflies = [14, 17, 12, 14, 15, 18, 19, 10]
+
+for x in butterflies:
+    if x >= 14:
+           print("You have a lot of butterflies.")
+    else:
+         print("You don't have many butterflies.")
